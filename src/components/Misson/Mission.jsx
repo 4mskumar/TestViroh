@@ -4,7 +4,7 @@ const Mission = () => {
   return (
     <div className="w-full px-4 sm:px-10 md:px-20 lg:px-32 xl:px-48 2xl:px-60 py-20 bg-blue-50 flex flex-col items-center text-navy">
       <div className="w-16 sm:w-20">
-        <img src="public/images/logowotext.png" alt="logo" className="w-full h-auto object-contain" />
+        <img src="/images/logowotext.png" alt="logo" className="w-full h-auto object-contain" />
       </div>
 
       <h1 className="font-dm mt-5 font-semibold tracking-tight text-4xl sm:text-5xl md:text-6xl text-center">
