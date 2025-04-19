@@ -13,7 +13,7 @@ const Footer = () => {
       </div>
       <div className="flex items-center gap-48 mx-auto">
         <div className="z-[1000] w-full flex flex-col gap-4" style={{ zIndex: 40 }}>
-          <img src="public/images/logowotext.png" className="w-28" alt="" />
+          <img src="/images/logowotext.png" className="w-28" alt="" />
           <p className="text-xl font-inter tracking-tighter text-white font-semibold">
             Let's tap and manifest our unlimited potential.
           </p>
