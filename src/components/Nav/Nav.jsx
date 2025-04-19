@@ -37,7 +37,7 @@ const Nav = () => {
         <a href="/">
         <img
           className='w-full h-full object-cover'
-          src='public/images/virohlogo.jpeg'
+          src='/images/virohlogo.jpeg'
           alt='logo'
           />
           </a>
