@@ -10,7 +10,7 @@ const About = ({}) => {
       <div className="flex items-center gap-2">
         <img
           className="w-16 md:w-20"
-          src="public/images/logowotext.png"
+          src="/images/logowotext.png"
 
           alt="viroh-logo"
         />
