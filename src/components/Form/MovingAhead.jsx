@@ -5,7 +5,7 @@ const MovingAhead = () => {
   return (
     <div data-scroll data-scroll-speed='-0.05' className='px-6 md:px-20 lg:px-72 py-20'>
       <div className='flex flex-col justify-center items-center gap-4'>
-        <img src='../../src/assets/virohlogo.jpeg' className='w-16 md:w-20' alt='' />
+        <img src='/image/virohlogo.jpeg' className='w-16 md:w-20' alt='' />
         <h1 className='text-3xl md:text-5xl lg:text-6xl font-semibold font-dm tracking-tight text-navy text-center'>
           Moving Ahead Together
         </h1>
@@ -17,7 +17,7 @@ const MovingAhead = () => {
 
       <div className='mt-10 flex flex-col lg:flex-row gap-10'>
         <div className='w-full lg:w-1/2'>
-          <img src='public/images/logowotext.png' className='w-full' alt='' />
+          <img src='/images/logowotext.png' className='w-full' alt='' />
         </div>
         <div className='w-full lg:w-1/2'>
           <Form />
