@@ -23,7 +23,7 @@ const StickyNav = () => {
       <div className='w-20'>
         <img
           className='w-full h-full object-cover'
-          src='public/images/virohlogo.jpeg'
+          src='/images/virohlogo.jpeg'
           alt='logo'
         />
       </div>
